@@ -25,7 +25,7 @@
 
 ////////////////////////////////////////////// Задание №3
 
-// let c = prompt("Numder")
+// let c = prompt("Number")
 
 // if((c & 1) == 0 === true){
 //     console.log(alert("even"))
